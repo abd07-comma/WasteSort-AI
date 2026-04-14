@@ -93,7 +93,8 @@ Evaluating **OAK-D Pro** (depth + RGB camera) as a possible solution.
 ### Depth Map — 6-Zone Analysis
 *MiDaS depth output used to compare bin levels across zones*
 
-<!-- Add: depth_map.png -->
+depth_map.jpg
+
 
 ### Zone Sectors with Depth Values
 *Each sector (S1–S9) shows its average depth value in real time*
