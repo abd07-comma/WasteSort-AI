@@ -93,19 +93,20 @@ Evaluating **OAK-D Pro** (depth + RGB camera) as a possible solution.
 ### Depth Map — 6-Zone Analysis
 *MiDaS depth output used to compare bin levels across zones*
 
-depth_map.jpg
+depthmapv1.png
 
 
 ### Zone Sectors with Depth Values
 *Each sector (S1–S9) shows its average depth value in real time*
 
-<!-- Add: zone_sectors.jpg -->
+depth_map.jpg
 
 ### Live Detection — Grab Detector
 *Object segmentation + bin zone classification during operator sorting session*
 *ArUco marker visible on operator glove (Marker: YES)*
 
-<!-- Add: grab_detector.jpg, aruco_glove.jpg -->
+seg_det.jpeg
+seg_det2.jpeg
 
 ---
 
